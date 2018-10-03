@@ -1,0 +1,9 @@
+C:\Users\Teather\Desktop\Marchenko\PoolThread\ConsoleApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Teather\Desktop\Marchenko\PoolThread\ConsoleApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Teather\Desktop\Marchenko\PoolThread\ConsoleApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Teather\Desktop\Marchenko\PoolThread\ConsoleApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Teather\Desktop\Marchenko\PoolThread\ConsoleApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Teather\Desktop\Marchenko\PoolThread\ConsoleApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Teather\Desktop\Marchenko\PoolThread\ConsoleApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Teather\Desktop\Marchenko\PoolThread\ConsoleApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Teather\Desktop\Marchenko\PoolThread\ConsoleApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
