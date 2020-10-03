@@ -26,7 +26,7 @@ namespace ConsoleApp1
         {
             for (int i = 0; i < 3; i++)
             {
-                Console.WriteLine($"Цыкл {i}, выополняется внутри потока из пула {Thread.CurrentThread.ManagedThreadId}");
+                Console.WriteLine($"Цикл {i}, выополняется внутри потока из пула {Thread.CurrentThread.ManagedThreadId}");
                 Thread.Sleep(20);
             }
         }
@@ -35,7 +35,7 @@ namespace ConsoleApp1
         {
             for (int i = 0; i < 3; i++)
             {
-                Console.WriteLine($"\tЦыкл {i}, выополняется внутри потока из пула {Thread.CurrentThread.ManagedThreadId}");
+                Console.WriteLine($"\tЦикл {i}, выополняется внутри потока из пула {Thread.CurrentThread.ManagedThreadId}");
                 Thread.Sleep(20);
             }
         }
@@ -45,7 +45,7 @@ namespace ConsoleApp1
         {
             for (int i = 0; i < 3; i++)
             {
-                Console.WriteLine($"\t\tЦыкл {i}, выополняется внутри потока из пула {Thread.CurrentThread.ManagedThreadId}");
+                Console.WriteLine($"\t\tЦикл {i}, выополняется внутри потока из пула {Thread.CurrentThread.ManagedThreadId}");
                 Thread.Sleep(20);
             }
         }
